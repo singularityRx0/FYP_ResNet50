@@ -1,0 +1,8 @@
+SARS-COV-2 Ct-Scan Dataset
+https://www.kaggle.com/datasets/plameneduardo/sarscov2-ctscan-dataset
+
+COVID-19 Lung CT Scans
+https://www.kaggle.com/datasets/luisblanche/covidct
+
+Large COVID-19 CT scan slice dataset
+https://www.kaggle.com/datasets/maedemaftouni/large-covid19-ct-slice-dataset
